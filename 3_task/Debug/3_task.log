@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (3_task.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Vector.cpp
+C:\Users\TravelMate\source\repos\сиаод\3_task\Vector.cpp(14,6): warning C4101: 'menu': unreferenced local variable
+  3_task.vcxproj -> C:\Users\TravelMate\source\repos\сиаод\Debug\Vector.exe
